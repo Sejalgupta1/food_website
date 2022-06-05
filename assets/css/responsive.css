@@ -1,0 +1,288 @@
+ 
+ @media only screen and (max-width:1229px){
+    .nav a{
+        font-size: 20px;
+    }
+    .heading p{
+      font-size: 18px;
+    padding-left: 14px;
+    margin-left: 25px;
+    margin-top: 120px;
+ }
+ .heading h1{
+    font-size: 80px;
+    margin-left: 20px;
+ }
+ .heading h2{
+    font-size: 35px;
+    margin-left: 25px;
+ }
+ .cde img{
+     width: 100%;
+     height:240px;
+ }
+ .abc{
+    margin-bottom: 100px;
+}
+.reset input{
+    width: 240px;
+    height: 40px;
+} 
+.table_btn{
+    width:270px;
+}
+.people{
+    margin-bottom: 160px;
+    margin-left: 15px;
+}
+.cell p{
+    margin-right:180px;
+    margin-bottom:50px;
+    margin-top:40px;
+    margin-left: 20px;
+     
+}
+.xyz {
+    margin-top:100px;
+    margin-left: 100px;
+}
+.reset input{
+    width: 230px;
+    height: 40px;
+} 
+
+.f-name{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.email{
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.time{
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width:240px;
+    
+}
+.date{
+    font-size: 20px;
+    margin-bottom: 20px;
+    width:240px;
+}
+.people{
+    font-size: 20px;
+    margin-bottom: 175px;
+    width:240px;
+     font-family: 'Bebas Neue', bold;
+    font-weight:700;
+}
+.table_btn{
+    width:260px;
+    height: 43px;
+    font-size: 20px;
+    margin-bottom: 175px;
+}
+ }
+
+
+ @media only screen and (max-width:1024px){
+
+}
+
+
+ 
+@media only screen and (max-width:992px){
+    .nav a{
+        margin: 0;
+    }
+    .heading p{
+        font-size: 18px;
+      padding-left: 14px;
+      margin-left: 25px;
+      margin-top: 90px;
+   }
+   .heading h1{
+    font-size: 70px;
+    margin-left: 17px;
+ }
+ .heading h2{
+    font-size: 30px;
+    margin-left: 22px;
+ }
+ .cde img{
+    width: 100%;
+    height:175px;
+}
+.burger h2{
+    font-size:25px;
+ }
+ .burger p{
+    font-size: 14px;
+    margin-bottom: 37px;
+ }
+ .dis span{
+    font-size:20px;
+}
+.dis h3{
+    font-size:32px;
+}
+.dis p{
+    font-size:14px;
+}
+.abc{
+    margin-bottom: 80px;
+}
+.always h1{
+    margin-bottom:30px;
+ }
+ .always p{
+    margin-bottom:50px;
+ }
+ .reset h4{
+    padding-top:90px;
+   font-size: 28px;
+}
+.reset h3{
+   font-size:35px;
+   margin-top:20px;
+   margin-bottom: 80px;
+}
+.people{
+    margin-bottom: 120px;
+}
+.bottom_footer{
+    margin:0 50px;
+ }
+ .bottom_footer .container{
+    display:block; 
+     }
+     .bottom_footer{
+         text-align: center;
+     }
+     .cell p{
+        margin-bottom: 20px;
+        margin-top:50px;
+        margin-left:150px;
+         
+    }
+    .cell span{ 
+        margin:0 20px;
+    }
+    .cell img{
+        margin-top: 40px;
+    }
+    .icons{
+        padding-top:40px;
+        margin-right:0;
+    }
+    .xyz {
+        margin-top:40px;
+        margin-left:0;
+    }
+}
+@media only screen and (max-width:767px){
+    .nav a{
+        margin: 0;
+    }
+    .heading p{
+        font-size:12px;
+      text-align: center;
+      margin-top:30px;
+      margin-right: 20px;
+   }
+   .heading h1{
+    font-size:50px;
+    text-align: center;
+ }
+ .heading h2{
+    font-size:30px;
+    text-align: center;
+    margin-bottom: 20px;
+ }
+ .top{
+    margin-bottom: 30px;
+}
+.dish img{
+    margin-top:30px;
+}
+.always h1{
+    font-size: 35px;
+    margin-bottom: 20px;
+ }
+ .always p{
+    font-size:15px;
+    margin-bottom:20px;
+ }
+ .order_btn{
+     width:180px;
+     height: 48px;
+     font-size: 17px;
+     margin-bottom: 80px;
+ }
+ .cde img{
+    width:350px;
+    height:300px;
+}
+.abc{
+    text-align: center;
+    margin-bottom: 80px;
+}
+.dis h3{
+    font-size:25px;
+}
+.people{
+    margin-bottom:50px;
+}
+.table_btn{
+    margin-bottom:80px;
+}
+.cell p{
+    text-align: center;
+    margin-left: 0;
+    margin-right:10px;
+}
+.bottom_footer{
+    margin: 0 10px;
+}
+}
+@media only screen and (max-width:480px){
+    .nav a{
+        margin: 0;
+    }
+    .heading p{
+        font-size: 15px;
+     
+   }
+   .heading h1{
+    font-size: 60px;
+    margin-left: 17px;
+ }
+ .alw_btn{
+    width:260px;
+    height:35px;
+    font-size: 14px;
+     
+}
+.reset h3 {
+    font-size:28px;
+    margin-top: 17px;
+    margin-bottom: 50px;
+
+}
+.xyz {
+    margin-top: 14px;
+    margin-left: 20px;
+}
+.table_btn {
+    width: 250px;
+    height: 37px;
+    font-size: 18px;
+}
+}
+@media only screen and (max-width:319px){
+
+}
+
